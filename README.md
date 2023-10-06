@@ -1,2 +1,2 @@
 # Docker-Fundamentals
-Notes related to docket
+Notes related to Docker
